@@ -1,0 +1,21 @@
+{
+  "name": "wangzuo.me",
+  "version": "0.1.0",
+  "description": "wangzuo.me",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "rm -rf out && NODE_ENV=production next build && next export",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzuo/wangzuo.me.git"
+  },
+  "author": "Wang Zuo <wzuoadjusted@gmail.com>",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/wangzuo/wangzuo.me/issues"
+  },
+  "homepage": "https://wangzuo.me",
+}

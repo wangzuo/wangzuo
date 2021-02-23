@@ -1,0 +1,10 @@
+{
+  "name": "wangzuo",
+  "version": "0.1.5",
+  "main": "index.js",
+  "bin": {
+    "wangzuo": "./index.js"
+  },
+  "author": "Wang Zuo <wzuoadjusted@gmail.com>",
+  "license": "MIT"
+}
