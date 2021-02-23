@@ -1,3 +1,3 @@
-# wangzuo.me
+# wangzuo
 
 https://wangzuo.me
