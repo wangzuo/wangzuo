@@ -1,3 +1,6 @@
 site: wangzuo
 public: public
 force_ssl: true
+domains:
+  china: wangzuo.westack.live
+  global: test.wangzuo.me
